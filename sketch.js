@@ -9,10 +9,10 @@ var ground;
 var dieselCount = 0;
 
 function preload() {
-    carImg = loadAnimation("car1.jpg","car2.jpg","car3.jpg");
-    dieselImg = loadImage("diesel.png");
-    dustbinImg = loadImage("dustbin.jpg");
-    stoneImg = loadImage("stones.jpg");
+    carImg = loadAnimation("images/car1.jpg","images/car2.jpg","images/car3.jpg");
+    dieselImg = loadImage("images/diesel.png");
+    dustbinImg = loadImage("images/dustbin.jpg");
+    stoneImg = loadImage("images/stones.jpg");
 
 
 }
